@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.vaccination-by-age {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  margin-top: 25px;
+  padding: 20px;
+}
+.vaccine-by-age-heading {
+  color: #cbd5e1;
+  font-family: 'roboto';
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
